@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quantidade de números impares", "Quantidade de números impares\Quantidade de números impares.csproj", "{6C2A6C06-E1DE-4451-B028-81DC5DFF4E97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C2A6C06-E1DE-4451-B028-81DC5DFF4E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2A6C06-E1DE-4451-B028-81DC5DFF4E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2A6C06-E1DE-4451-B028-81DC5DFF4E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2A6C06-E1DE-4451-B028-81DC5DFF4E97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A5431E5-8F4D-4D84-A867-D360A02B48F3}
+	EndGlobalSection
+EndGlobal
